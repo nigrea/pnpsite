@@ -1,0 +1,29 @@
+Hi Eloomi
+
+It's been a while since I wrote this, 
+so I'm not completetly sure about deployment on your system.
+
+Remember to migrate the database.
+
+I have it in my www directory on wamp and 
+I use the "php artisan serve" command to make it accessable on 
+localhost:8000/
+
+It's currently lacking an index page, so go directly to 
+"localhost:8000/games".
+
+Here are some other urls that are hard to access without and index page:
+
+
+"/games"
+"/tags"
+"/gamesystems"
+
+"/auth/login"
+"/auth/logout"
+
+"/auth/register"
+
+The UI is horrible, but functional.
+
+Best Regards Phillip Barth
